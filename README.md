@@ -5,3 +5,9 @@ Repositorio con aplicaciones creadas para la materia Sistemas Operativos de Red 
 2) MemApplicationPro: Es una aplicación destinada a comprender la asignación de paginas de procesos a la memoria principal.
 
 Para  ambas aplicaciones deberá instalar la JVM (Java Virtual Machine).
+
+## Para ejecutar usando netOSLab:
+```
+cd /root/Docuuments/SimPlanificador
+jexec PS.jar
+```
